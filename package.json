@@ -1,0 +1,10 @@
+{
+  "name": "front-end-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --server 'src' --watch --files 'src/*.css'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
